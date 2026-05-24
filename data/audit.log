@@ -1,0 +1,38 @@
+[2026-05-21 23:06:59] LOGIN | admin logged in
+[2026-05-21 23:15:12] LOGIN | admin logged in
+[2026-05-21 23:16:15] LOGIN | admin logged in
+[2026-05-22 00:40:57] ADD_MEDICINE | Added: Sunny D (id=11)
+[2026-05-22 00:45:51] ADD_MEDICINE | Added: Polyfax (id=12)
+[2026-05-22 00:47:46] ADD_MEDICINE | Added: Beka (id=13)
+[2026-05-22 00:49:07] ADD_MEDICINE | Added: Riskek 20 (id=14)
+[2026-05-22 00:49:17] ADD_STOCK | Added 50 units to Riskek 20
+[2026-05-22 01:58:42] LOGIN | admin logged in
+[2026-05-22 02:04:33] LOGIN | admin logged in
+[2026-05-22 02:05:11] SALE | Sale #1 by Administrator — Rs 1420.00 via CASH
+[2026-05-22 02:07:26] LOGOUT | admin logged out
+[2026-05-22 02:07:36] LOGIN | admin logged in
+[2026-05-22 02:31:12] ADD_PATIENT | Registered: Ali Ahmed
+[2026-05-22 02:32:24] ADD_PATIENT | Registered: Usman Khan
+[2026-05-22 02:33:15] ADD_PATIENT | Registered: Suleiman Ahmed
+[2026-05-22 02:33:31] EDIT_PATIENT | Updated: Suleiman Ahmed
+[2026-05-22 03:06:02] LOGOUT | admin logged out
+[2026-05-22 03:06:58] LOGIN | admin logged in
+[2026-05-22 03:08:21] SALE | Sale #2 by Administrator — Rs 2740.00 via CARD
+[2026-05-22 03:09:14] LOGIN | admin logged in
+[2026-05-22 03:10:20] SALE | Sale #3 by Administrator — Rs 4394.47 via CASH
+[2026-05-22 03:12:06] LOGIN | pharmacist logged in
+[2026-05-22 03:13:15] SALE | Sale #4 by Dr. Sara Khan — Rs 5124.30 via DIGITAL_WALLET
+[2026-05-22 03:13:44] LOGIN | admin logged in
+[2026-05-22 03:14:05] ADD_STOCK | Added 30 units to Diazepam
+[2026-05-22 03:15:06] ADD_MEDICINE | Added: Panadol Extra (id=15)
+[2026-05-22 03:16:43] SALE | Sale #5 by Administrator — Rs 6430.30 via CASH
+[2026-05-22 03:17:38] LOGIN | admin logged in
+[2026-05-22 03:19:36] SALE | Sale #6 by Administrator — Rs 8111.22 via CARD
+[2026-05-22 03:20:22] LOGIN | pharmacist logged in
+[2026-05-22 03:21:40] SALE | Sale #7 by Dr. Sara Khan — Rs 9393.10 via CASH
+[2026-05-22 03:35:35] LOGOUT | pharmacist logged out
+[2026-05-22 03:35:38] LOGIN | admin logged in
+[2026-05-22 03:48:07] EDIT_MEDICINE | Updated: Amoxicillin
+[2026-05-22 03:54:20] LOGOUT | admin logged out
+[2026-05-24 19:16:59] LOGIN | admin logged in
+[2026-05-24 19:17:13] LOGOUT | admin logged out
