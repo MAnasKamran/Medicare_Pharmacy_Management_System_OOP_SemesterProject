@@ -1,4 +1,4 @@
-# PharmacyPMS — Pharmacy Management & POS System
+# PharmacyPMS : Pharmacy Management & POS System
 
 A desktop-based **Pharmacy Management and Point-of-Sale (POS) System** developed in **Java Swing**.
 The application simulates a real-world pharmacy workflow including inventory management, prescription handling, patient records, supplier tracking, billing, reporting, and role-based access control.
